@@ -1,7 +1,6 @@
 {
   "name": "automattic/jetpack-skeleton",
   "description": "Creates a base project for a Jetpack project.",
-  "version": "1.0.0",
   "license": "GPL-2.0",
   "type": "project",
   "require-dev": {
